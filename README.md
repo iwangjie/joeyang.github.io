@@ -5,3 +5,5 @@
 * 技术栈:nodejs,electron,java,主要想做的是后端的东西,java架构方面发展,还有nodejs技术方面发展
 
 * 目前需要做electron上的窗口分离功能
+
+* 想去的公司:自己也不清楚,有点想去B站
