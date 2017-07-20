@@ -6,4 +6,4 @@
 
 * 这种错误常见在web服务器对JSP进行**pre compile**的时候。如果你的WEB APP下都用了大量的第三方jar, 其大小超过了jvm默认的大小(4M)那么就会产生此错误信息了。 
 
-* 解决方法： 手动设置MaxPermSize大小修改TOMCAT_HOME/bin/catalina.sh在
+* 解决方法： 
