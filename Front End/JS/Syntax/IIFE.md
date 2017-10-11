@@ -15,12 +15,15 @@ var b = new a();`
 
 ### 函数声明----Function Declaration - function test() {};
 * 函数声明时必须有函数名。
+
 >
-`function a(){  
-  alert('Function declaration');  
-}  
+
+```js
+function a(){
+  alert('Function declaration');
+}
 a();
-`
+```
 
 * 这是一个匿名函数
 `function () {}`

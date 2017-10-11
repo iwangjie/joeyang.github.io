@@ -63,3 +63,15 @@ arrayObj.join(separator); //返回字符串，这个字符串将数组的每一�
 
 toLocaleString 、toString 、valueOf：可以看作是join的特殊用法，不常用
 ```
+
+### 遍历数组,json
+
+```js
+$.each(arr, function(i, item){
+});
+
+专用于jQuery对象的遍历
+arr.each(function(i,obj){})
+
+arr.each(function(key,values){})
+```
