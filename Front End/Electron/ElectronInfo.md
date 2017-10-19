@@ -7,5 +7,4 @@
 . [Electron官网github主页](https://github.com/electron/electron)
 . [Electron产品sealtalk代码](https://github.com/sealtalk/sealtalk-desktop)
 
-## 
-
+##
